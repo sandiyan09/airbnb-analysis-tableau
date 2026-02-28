@@ -1,4 +1,4 @@
-# Seattle AirBnB Analysis - Interactive Tableau Dashboard
+# Seattle AirBnB Analysis - Tableau Dashboard
 
 ## Project Overview
 This project provides a comprehensive analysis of the AirBnB market in Seattle. Using a dataset of thousands of listings, I built an interactive dashboard to help stakeholders understand pricing trends, geographic hotspots, and revenue patterns based on property size.
